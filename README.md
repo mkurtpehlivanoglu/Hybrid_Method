@@ -1,3 +1,5 @@
+Accompanying source codes for the paper *Three Input Exclusive-OR Gate Support For Boyar-Peralta's Algorithm* (accepted in Indocrypt 2021, archived in [ePrint](https://eprint.iacr.org/2021/1400))
+
 # Run Boyar-Peralta with XOR2 / XOR3 / XOR4 gates
 
 ```console
