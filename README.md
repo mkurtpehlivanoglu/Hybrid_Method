@@ -2,7 +2,8 @@
 
 The Circuits folder includes all the experimental results.
 
-Note that, in this repository, we used the source codes given in ([ePrint](https://eprint.iacr.org/2021/1400))
+Please be aware that we have employed the source codes provided in the following repository:([ePrint](https://eprint.iacr.org/2021/1400))
+
 
 # Run Boyar-Peralta with XOR2 / XOR3 / XOR4 gates
 
