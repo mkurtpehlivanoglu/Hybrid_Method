@@ -1,0 +1,59 @@
+SLP Heuristic XorCount: 52, Depth: 5
+, XOR2: 8, XOR3: 44
+SLP Heuristic XorCost ASIC1: 159
+SLP Heuristic XorCost ASIC2: 179.308
+SLP Heuristic XorCost ASIC3: 204.8
+SLP Heuristic XorCost ASIC4: 231.68
+Timestamp: 16-01-2023 19-44-07
+t00 = x14 + x28 + x09
+y07 = x16 + x07 + t00
+t02 = x12 + x26 + x31
+y05 = x22 + x05 + t02
+t04 = x25 + x30 + x11
+y23 = x23 + x07 + t04
+t06 = x08 + x13 + x27
+y06 = x23 + x06 + t06
+t08 = x24 + x15 + x29
+t09 = x24 + x00
+y15 = x15 + x22 + t09
+y16 = x16 + t02 + t09
+t12 = x10 + t08
+y22 = x06 + x22 + t12
+t14 = x12 + x02 + x31
+y09 = x09 + y16 + t14
+y18 = x18 + t00 + t14
+t17 = x21 + x31 + x07
+y14 = x14 + t17
+t19 = x09 + x16 + x18
+y25 = x25 + x07 + t19
+y01 = x01 + t04 + t19
+y28 = y18 + y14 + t19
+t23 = x14 + x04 + t04
+y04 = y07 + y14 + t23
+y20 = x20 + t06 + t23
+y30 = x30 + y23 + t23
+t27 = x25 + x01
+y17 = x17 + t06 + t27
+y08 = x23 + x08 + t27
+t30 = x13 + x03 + t12
+y19 = x19 + t02 + t30
+y29 = x29 + y22 + t30
+t33 = x13 + y20 + y30
+y13 = y23 + y06 + t33
+y03 = y23 + t30 + t33
+y27 = x06 + y08 + t33
+t37 = x19 + x00 + t08
+y02 = x02 + y16 + t37
+t39 = x15 + x05
+y31 = x16 + x31 + t39
+y12 = x12 + t37 + t39
+y21 = x21 + t00 + t39
+t43 = x08 + x00 + x17
+y00 = t12 + t43
+y24 = x06 + t09 + t43
+t46 = y07 + y01 + y30
+y11 = t27 + t46
+t48 = t14 + y02 + y00
+y26 = y24 + t48
+t50 = y06 + t09 + y00
+y10 = y15 + y29 + t50
